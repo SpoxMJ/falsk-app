@@ -1,3 +1,9 @@
+Matczak Michał spox098@gmail.com tel:731950803
+
+
+
+
+
 For test tasks:
 1. Test Dockerfile write command: 'docker build -t aplication .' and next step is 'docker run -d -p 4500:4500 application'
 2. Test docker-compose write , docker-compose build , docker compose up, for test function application run on 5000 port,
