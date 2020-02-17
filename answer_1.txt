@@ -1,0 +1,3 @@
+For magange sensitive data with Docker should be the best way use Docker secrets.
+I think that is the best way because we can have a credentials all time at hand.
+`
