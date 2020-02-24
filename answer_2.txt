@@ -1,2 +1,0 @@
-For deploy container on AWS we should use AWS IAM roles to EC2 instances.
-But for storded data to database we should use AWS Secrets Manager with credensial from IAM.
